@@ -10,7 +10,7 @@ use Illuminate\View\Component;
 // Service
 use App\Services\DuffelApiServices;
 
-class flightBaggages extends Component
+class FlightBaggages extends Component
 {
     /**
      * Create a new component instance.
