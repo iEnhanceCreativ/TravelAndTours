@@ -1,4 +1,4 @@
-@extends('layouts/contentNavbarLayout', ['page' => 'flights'])
+@extends('layouts/content-nav-bar-layout', ['page' => 'flights'])
 
 @section('title', 'Flight Details')
 

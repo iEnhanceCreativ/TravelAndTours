@@ -3,7 +3,7 @@ $container = 'container-fluid';
 $containerNav = 'container-fluid';
 @endphp
 
-@extends('layouts/contentNavbarLayout', ['page' => 'home'])
+@extends('layouts/content-nav-bar-layout', ['page' => 'home'])
 
 @section('title', 'Home')
 

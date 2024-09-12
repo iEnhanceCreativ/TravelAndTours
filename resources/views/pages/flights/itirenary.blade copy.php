@@ -1,4 +1,4 @@
-@extends('layouts/blankLayout', ['page' => 'itirenary'])
+@extends('layouts/blank-layout', ['page' => 'itirenary'])
 
 @section('title', 'Itirenary')
 
